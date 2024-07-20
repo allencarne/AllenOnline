@@ -1,2 +1,2 @@
 # AllenOnline
-Pixel Game
+Pixel RPG Game Made in GameMaker
